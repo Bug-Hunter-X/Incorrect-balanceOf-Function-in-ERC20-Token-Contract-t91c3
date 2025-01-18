@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug in the balanceOf function and its corrected version. The bug involves failing to handle edge cases where an account doesn't have a balance, leading to unexpected results. The corrected version addresses this by ensuring a proper default value is returned.
